@@ -57,3 +57,6 @@ public class MouseDragManager : MonoBehaviour
     }
 
 }
+
+
+//Odio aqui
